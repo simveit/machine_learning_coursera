@@ -1,2 +1,2 @@
-# Machine learning course on coursera.
-My implementations of the machine learning specialisation on coursera.
+# Course 1
+My implementations of the machine learning specialisation course 1 on coursera.
